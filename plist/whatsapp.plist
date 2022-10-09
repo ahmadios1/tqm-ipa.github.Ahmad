@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.whatsapp</string>
+				<string>com.tqm.whatsapp2</string>
 				<key>bundle-version</key>
 				<string>22.5.71</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>WhatsApp TQM</string>
+				<string>WhatsApp2 TQM</string>
 			</dict>
 		</dict>
 	</array>

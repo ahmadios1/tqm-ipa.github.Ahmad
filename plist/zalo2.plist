@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.tqm.zalo2</string>
 				<key>bundle-version</key>
-				<string>210902</string>
+				<string>220901</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>Zalo TQM</string>
+				<string>Zalo2 TQM</string>
 			</dict>
 		</dict>
 	</array>
