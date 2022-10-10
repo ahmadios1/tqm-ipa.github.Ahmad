@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.tqm.messenger2</string>
 				<key>bundle-version</key>
-				<string>311.0</string>
+				<string>381.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>Messenger TQM</string>
+				<string>Messenger2 TQM</string>
 			</dict>
 		</dict>
 	</array>

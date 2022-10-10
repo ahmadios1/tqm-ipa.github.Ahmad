@@ -288,7 +288,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Messenger 2",
-            "version": "311.0",
+            "version": "381.0",
             "icon": "https://tqm-ipa.github.io/js/img/mes.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/Messenger2-TQM.ipa",
@@ -632,7 +632,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Lightroom",
-            "version": "7.4.1",
+            "version": "7.5.1",
             "icon": "https://tqm-ipa.github.io/js/img/lr.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",
@@ -640,7 +640,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "AdobePS Premium",
-            "version": "21.5.0",
+            "version": "22.15.0",
             "icon": "https://tqm-ipa.github.io/js/img/adope.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/adope-TQM/adope-TQM.ipa",
@@ -753,7 +753,7 @@
         }, {
             "category": "Games++",
             "name": "PvZ1",
-            "version": "14.635.6",
+            "version": "1.9.13",
             "icon": "https://tqm-ipa.github.io/js/img/pvz.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/PvZ-TQM.ipa",
@@ -774,5 +774,45 @@
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/freefire-TQM/freefire-TQM.ipa",
             "description": "FreeFire Hack For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "8BallPool",
+            "version": "5.8.1",
+            "icon": "https://tqm-ipa.github.io/js/img/8ballpool.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/8BallPool-TQM.ipa",
+            "description": "8BallPool ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Candy Crush Saga",
+            "version": "1.226.0",
+            "icon": "https://tqm-ipa.github.io/js/img/candy.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/Candy-TQM.ipa",
+            "description": "Candy Crush Saga ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "DLS22",
+            "version": "9.12",
+            "icon": "https://tqm-ipa.github.io/js/img/dls22.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
+            "description": "DLS22 Hack ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Hungry Shark",
+            "version": "4.5.0",
+            "icon": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
+            "description": "Hungry Shark ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Inside",
+            "version": "1.1.8",
+            "icon": "https://tqm-ipa.github.io/js/img/inside.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/inside-tqm/Inside-TQM.ipa",
+            "description": "Inside ios10 Trở nên | All Devices"
         }]
 }
