@@ -464,6 +464,51 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "WeChat 2",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-2/WeChatTQM2.ipa",
+            "versionDescription": "WeChat 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 3",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-3/WeChatTQM3.ipa",
+            "versionDescription": "WeChat 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 4",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-4/WeChatTQM4.ipa",
+            "versionDescription": "WeChat 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 5",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-5/WeChatTQM5.ipa",
+            "versionDescription": "WeChat 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 6",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-6/WeChatTQM6.ipa",
+            "versionDescription": "WeChat 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "MoMo 2",
             "version": "4.0.4",
             "iconURL": "https://tqm-ipa.github.io/js/img/momo.png",
@@ -530,7 +575,7 @@
             "name": "TikTok No Logo",
             "version": "19.3.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/tiktok.png",
-            "downloadURL": "https://archive.org/download/tik-tok-tqm-19/TikTok-TQM19.ipa",
+            "downloadURL": "https://quangminh388.github.io/ipa/TikTok-TQM19.ipa",
             "versionDescription": "TikTok No Logo For ios10 Trở nên | All Devices"
         },
 
@@ -568,6 +613,15 @@
             "iconURL": "https://tqm-ipa.github.io/js/img/hdo.png",
             "downloadURL": "https://quangminh388.github.io/ipa/HdoPlay-TQM.ipa",
             "versionDescription": "HdoPlay No ads For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Play Diary",
+            "version": "1.1.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/playdiary.png",
+            "downloadURL": "https://quangminh388.github.io/ipa/PlayDiary-TQM.ipa",
+            "versionDescription": "Play Diary For ios10 Trở nên | All Devices"
         },
 
         {
@@ -629,7 +683,7 @@
             "name": "KineMaster Premium",
             "version": "6.0.4",
             "iconURL": "https://tqm-ipa.github.io/js/img/kinesmaster.png",
-            "downloadURL": "https://archive.org/download/kinesmaster-TQM/kinesmaster-TQM.ipa",
+            "downloadURL": "https://quangminh388.github.io/ipa/kinesmaster-TQM.ipa",
             "versionDescription": "KineMaster Premium For ios10 Trở nên | All Devices"
         },
 
@@ -647,7 +701,7 @@
             "name": "PicsArt Premium",
             "version": "20.1.4",
             "iconURL": "https://tqm-ipa.github.io/js/img/pic.png",
-            "downloadURL": "https://archive.org/download/pics-art-tqm/PicsArt-TQM.ipa",
+            "downloadURL": "https://quangminh388.github.io/ipa/PicsArt-TQM.ipa",
             "versionDescription": "PicsArt Premium For ios10 Trở nên | All Devices"
         },
 
@@ -779,11 +833,20 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "PvZ2 Hack",
+            "name": "PvZ2",
             "version": "9.8.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/pvz2.png",
             "downloadURL": "https://archive.org/download/pvz2-TQM/pvz2-TQM.ipa",
             "versionDescription": "PvZ2 Hack For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "PvZ1",
+            "version": "9.8.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/pvz.png",
+            "downloadURL": "https://quangminh388.github.io/ipa/PvZ-TQM.ipa",
+            "versionDescription": "PvZ1 Hack For ios7 Trở nên | All Devices"
         },
 
         {

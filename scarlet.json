@@ -248,7 +248,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Facebook 2",
-            "version": "380.0",
+            "version": "385.0",
             "icon": "https://tqm-ipa.github.io/js/img/fb.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/facebook-2-tqm/Facebook2-TQM.ipa",
@@ -256,7 +256,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Facebook 3",
-            "version": "380.0",
+            "version": "385.0",
             "icon": "https://tqm-ipa.github.io/js/img/fb.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/facebook-tqm/Facebook-TQM.ipa",
@@ -264,7 +264,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Facebook 4",
-            "version": "380.0",
+            "version": "385.0",
             "icon": "https://tqm-ipa.github.io/js/img/fb.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/facebook-4_20220823/Facebook4.ipa",
@@ -272,7 +272,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Facebook 5",
-            "version": "380.0",
+            "version": "385.0",
             "icon": "https://tqm-ipa.github.io/js/img/fb.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/facebook-5_202208/Facebook5.ipa",
@@ -280,7 +280,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Facebook 6",
-            "version": "380.0",
+            "version": "385.0",
             "icon": "https://tqm-ipa.github.io/js/img/fb.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/facebook-6_202208/Facebook6.ipa",
@@ -336,7 +336,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 2",
-            "version": "210902",
+            "version": "220901",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
@@ -344,7 +344,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 3",
-            "version": "210902",
+            "version": "220901",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-3/Zalo3.ipa",
@@ -352,7 +352,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 4",
-            "version": "210902",
+            "version": "220901",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-4/Zalo4.ipa",
@@ -360,7 +360,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 5",
-            "version": "210902",
+            "version": "220901",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-5/Zalo5.ipa",
@@ -368,7 +368,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 6",
-            "version": "210902",
+            "version": "220901",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-6/Zalo6.ipa",
@@ -379,8 +379,120 @@
             "version": "22.5.71",
             "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
-            "down": "https://archive.org/download/whats-app-tqm/WhatsApp-TQM.ipa",
+            "down": "https://quangminh388.github.io/ipa/WhatsApp-TQM.ipa",
             "description": "WhatsApp 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 3",
+            "version": "22.5.71",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/WhatsAppTQM3.ipa",
+            "description": "WhatsApp 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 4",
+            "version": "22.5.71",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/WhatsAppTQM4.ipa",
+            "description": "WhatsApp 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 5",
+            "version": "22.5.71",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/WhatsAppTQM5.ipa",
+            "description": "WhatsApp 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 6",
+            "version": "22.5.71",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/WhatsAppTQM6.ipa",
+            "description": "WhatsApp 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 2",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-2/WeChatTQM2.ipa",
+            "description": "WeChat 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 3",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-3/WeChatTQM3.ipa",
+            "description": "WeChat 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 4",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-4/WeChatTQM4.ipa",
+            "description": "WeChat 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 5",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-5/WeChatTQM5.ipa",
+            "description": "WeChat 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 6",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-6/WeChatTQM6.ipa",
+            "description": "WeChat 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 2",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/MoMoTQM2.ipa",
+            "description": "MoMo 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 3",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/MoMoTQM3.ipa",
+            "description": "MoMo 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 4",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/MoMoTQM4.ipa",
+            "description": "MoMo 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 5",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/MoMoTQM5.ipa",
+            "description": "MoMo 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 6",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/MoMoTQM6.ipa",
+            "description": "MoMo 6 For ios10 Trở nên | All Devices"
         }, {
             "category": "Tweaks Apps++",
             "name": "Instagram++",
@@ -403,7 +515,7 @@
             "version": "19.3.0",
             "icon": "https://tqm-ipa.github.io/js/img/tiktok.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
-            "down": "https://archive.org/download/tik-tok-tqm-19/TikTok-TQM19.ipa",
+            "down": "https://quangminh388.github.io/ipa/TikTok-TQM19.ipa",
             "description": "TikTok No Logo For ios10 Trở nên | All Devices"
         }, {
             "category": "Tweaks Apps++",
@@ -437,6 +549,14 @@
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/HdoPlay-TQM.ipa",
             "description": "HdoPlay No ads For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Play Diary",
+            "version": "1.1.0",
+            "icon": "https://tqm-ipa.github.io/js/img/playdiary.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/PlayDiary-TQM.ipa",
+            "description": "Play Diary For ios10 Trở nên | All Devices"
         }, {
             "category": "Tweaks Apps++",
             "name": "Kodi",
@@ -491,7 +611,7 @@
             "version": "6.0.4",
             "icon": "https://tqm-ipa.github.io/js/img/kinesmaster.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
-            "down": "https://archive.org/download/kinesmaster-TQM/kinesmaster-TQM.ipa",
+            "down": "https://quangminh388.github.io/ipa/kinesmaster-TQM.ipa",
             "description": "KineMaster Premium For ios10 Trở nên | All Devices"
         }, {
             "category": "Tweaks Apps++",
@@ -507,7 +627,7 @@
             "version": "20.1.4",
             "icon": "https://tqm-ipa.github.io/js/img/pic.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
-            "down": "https://archive.org/download/pics-art-tqm/PicsArt-TQM.ipa",
+            "down": "https://quangminh388.github.io/ipa/PicsArt-TQM.ipa",
             "description": "PicsArt Premium For ios10 Trở nên | All Devices"
         }, {
             "category": "Tweaks Apps++",
@@ -624,12 +744,20 @@
             "description": "Clash of Clan For ios11 Trở nên | All Devices"
         }, {
             "category": "Games++",
-            "name": "PvZ2 Hack",
+            "name": "PvZ2",
             "version": "14.635.6",
             "icon": "https://tqm-ipa.github.io/js/img/pvz2.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/pvz2-TQM/pvz2-TQM.ipa",
             "description": "PvZ2 Hack For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "PvZ1",
+            "version": "14.635.6",
+            "icon": "https://tqm-ipa.github.io/js/img/pvz.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/PvZ-TQM.ipa",
+            "description": "PvZ1 Hack For ios10 Trở nên | All Devices"
         }, {
             "category": "Games++",
             "name": "Liên Quân Hack Maps",
