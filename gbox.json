@@ -324,7 +324,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 2",
-            "appVersion": "385.0",
+            "appVersion": "387.0",
             "appImage": "https://tqm-ipa.github.io/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-2-tqm/Facebook2-TQM.ipa",
             "appDescription": "Facebook 2 For ios10 Trở nên | All Devices"
@@ -334,7 +334,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 3",
-            "appVersion": "385.0",
+            "appVersion": "387.0",
             "appImage": "https://tqm-ipa.github.io/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-tqm/Facebook-TQM.ipa",
             "appDescription": "Facebook 3 For ios10 Trở nên | All Devices"
@@ -344,7 +344,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 4",
-            "appVersion": "385.0",
+            "appVersion": "387.0",
             "appImage": "https://tqm-ipa.github.io/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-4_20220823/Facebook4.ipa",
             "appDescription": "Facebook 4 For ios10 Trở nên | All Devices"
@@ -354,7 +354,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 5",
-            "appVersion": "380.0",
+            "appVersion": "387.0",
             "appImage": "https://tqm-ipa.github.io/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-5_202208/Facebook5.ipa",
             "appDescription": "Facebook 5 For ios10 Trở nên | All Devices"
@@ -364,7 +364,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 6",
-            "appVersion": "385.0",
+            "appVersion": "387.0",
             "appImage": "https://tqm-ipa.github.io/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-6_202208/Facebook6.ipa",
             "appDescription": "Facebook 6 For ios10 Trở nên | All Devices"
@@ -634,7 +634,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "TikTok No Logo",
-            "appVersion": "25.9.0",
+            "appVersion": "26.4.1",
             "appImage": "https://tqm-ipa.github.io/js/img/tiktok.png",
             "appPackage": "https://archive.org/download/tik-tok-tqm/TikTok-TQM.ipa",
             "appDescription": "TikTok No Logo For ios13 Trở nên | All Devices"
@@ -984,10 +984,20 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Candy Crush Saga",
-            "appVersion": "1.226.0",
+            "appVersion": "1.233.1",
             "appImage": "https://tqm-ipa.github.io/js/img/candy.png",
             "appPackage": "https://quangminh388.github.io/ipa/Candy-TQM.ipa",
             "appDescription": "Candy Crush Saga ios8 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Candy Crush Soda",
+            "appVersion": "1.190.2",
+            "appImage": "https://tqm-ipa.github.io/js/img/soda.png",
+            "appPackage": "https://quangminh388.github.io/ipa/Soda-TQM.ipa",
+            "appDescription": "Candy Crush Soda ios8 Trở nên | All Devices"
         },
 
         {
@@ -1008,6 +1018,16 @@
             "appImage": "https://tqm-ipa.github.io/js/img/hungryshark.png",
             "appPackage": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
             "appDescription": "Hungry Shark ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Archero",
+            "appVersion": "4.3.2",
+            "appImage": "https://tqm-ipa.github.io/js/img/archero.png",
+            "appPackage": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
+            "appDescription": "Archero Hack ios10 Trở nên | All Devices"
         },
 
         {
