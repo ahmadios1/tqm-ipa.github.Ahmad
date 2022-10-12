@@ -64,7 +64,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Messenger Lite",
-            "appVersion": "374.0",
+            "appVersion": "381.0",
             "appImage": "https://tqm-ipa.github.io/js/img/messlite.png",
             "appPackage": "https://quangminh388.github.io/ipa/messegen-TQM.ipa",
             "appDescription": "Messenger Lite For ios9-14.8.1 | All Devices"
@@ -73,7 +73,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 8.0.2",
             "appVersion": "8.0.2",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver802-TQM.ipa",
@@ -83,7 +83,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 8.0.1",
             "appVersion": "8.0.1",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver801-TQM.ipa",
@@ -93,7 +93,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 8.0.0",
             "appVersion": "8.0.0",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver800-TQM.ipa",
@@ -103,7 +103,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 7.0.2",
             "appVersion": "7.0.2",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver702-TQM.ipa",
@@ -113,7 +113,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 6.2.0",
             "appVersion": "6.2.0",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver620-TQM.ipa",
@@ -123,7 +123,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 6.1.2",
             "appVersion": "6.1.2",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver612-TQM.ipa",
@@ -133,7 +133,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 6.0.0",
             "appVersion": "6.0.0",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver600-TQM.ipa",
@@ -143,7 +143,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Unc0ver",
+            "appName": "Unc0ver 5.3.1",
             "appVersion": "5.3.1",
             "appImage": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "appPackage": "https://quangminh388.github.io/ipa/unc0ver531-TQM.ipa",
@@ -1004,7 +1004,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "DLS22",
-            "appVersion": "9.12",
+            "appVersion": "9.13",
             "appImage": "https://tqm-ipa.github.io/js/img/dls22.png",
             "appPackage": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
             "appDescription": "DLS22 Hack ios10 Trở nên | All Devices"

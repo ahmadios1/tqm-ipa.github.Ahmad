@@ -46,7 +46,7 @@
         }],
     "Tools Jailbreaks": [{
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 8.0.2",
             "version": "8.0.2",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -54,7 +54,7 @@
             "description": "jailbreak For ios11.0-14.8 | All Devices"
         }, {
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 8.0.1",
             "version": "8.0.1",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -62,7 +62,7 @@
             "description": "jailbreak For ios11.0-14.8 | All Devices"
         }, {
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 8.0.0",
             "version": "8.0.0",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -70,7 +70,7 @@
             "description": "jailbreak For ios11.0-14.8 | All Devices"
         }, {
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 7.0.2",
             "version": "7.0.2",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -78,7 +78,7 @@
             "description": "jailbreak For ios11.0-14.8 | All Devices"
         }, {
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 6.2.0",
             "version": "6.2.0",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -86,7 +86,7 @@
             "description": "jailbreak For ios11.0-14.8 | All Devices"
         }, {
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 6.1.2",
             "version": "6.1.2",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -94,7 +94,7 @@
             "description": "jailbreak For ios11.0-14.8 | All Devices"
         }, {
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 6.0.0",
             "version": "6.0.0",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -102,7 +102,7 @@
             "description": "jailbreak For ios11.0-14.8 | All Devices"
         }, {
             "category": "Tools Jailbreaks",
-            "name": "Unc0ver",
+            "name": "Unc0ver 5.3.1",
             "version": "5.3.1",
             "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
@@ -328,7 +328,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Messenger Lite",
-            "version": "374.0",
+            "version": "381.0",
             "icon": "https://tqm-ipa.github.io/js/img/messlite.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/messegen-TQM.ipa",
@@ -792,8 +792,16 @@
             "description": "Candy Crush Saga ios10 Trở nên | All Devices"
         }, {
             "category": "Games++",
+            "name": "Candy Crush Soda",
+            "version": "1.190.2",
+            "icon": "https://tqm-ipa.github.io/js/img/soda.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://quangminh388.github.io/ipa/Soda-TQM.ipa",
+            "description": "Candy Crush Soda ios8 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
             "name": "DLS22",
-            "version": "9.12",
+            "version": "9.13",
             "icon": "https://tqm-ipa.github.io/js/img/dls22.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
@@ -807,6 +815,14 @@
             "down": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
             "description": "Hungry Shark ios10 Trở nên | All Devices"
         }, {
+            "category": "Games++",
+            "name": "Archero",
+            "version": "4.3.2",
+            "icon": "https://tqm-ipa.github.io/js/img/archero.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
+            "description": "Archero Hack ios10 Trở nên | All Devices"
+        },  {
             "category": "Games++",
             "name": "Inside",
             "version": "1.1.8",

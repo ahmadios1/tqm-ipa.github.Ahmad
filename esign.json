@@ -51,7 +51,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Messenger Lite",
-            "version": "374.0",
+            "version": "381.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/messlite.png",
             "downloadURL": "https://quangminh388.github.io/ipa/messegen-TQM.ipa",
             "versionDescription": "Messenger Lite For ios9-14.8.1 | All Devices"
@@ -59,7 +59,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 8.0.2",
             "version": "8.0.2",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver802-TQM.ipa",
@@ -68,7 +68,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 8.0.1",
             "version": "8.0.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver801-TQM.ipa",
@@ -77,7 +77,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 8.0.0",
             "version": "8.0.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver800-TQM.ipa",
@@ -86,7 +86,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 7.0.2",
             "version": "7.0.2",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver702-TQM.ipa",
@@ -95,7 +95,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 6.2.0",
             "version": "6.2.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver620-TQM.ipa",
@@ -104,7 +104,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 6.1.2",
             "version": "6.1.2",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver612-TQM.ipa",
@@ -113,7 +113,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 6.0.0",
             "version": "6.0.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver600-TQM.ipa",
@@ -122,7 +122,7 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Unc0ver",
+            "name": "Unc0ver 5.3.1",
             "version": "5.3.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
             "downloadURL": "https://quangminh388.github.io/ipa/unc0ver531-TQM.ipa",
@@ -887,8 +887,17 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "Candy Crush Soda",
+            "version": "1.190.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/soda.png",
+            "downloadURL": "https://quangminh388.github.io/ipa/Soda-TQM.ipa",
+            "versionDescription": "Candy Crush Soda ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "DLS22",
-            "version": "9.12",
+            "version": "9.13",
             "iconURL": "https://tqm-ipa.github.io/js/img/dls22.png",
             "downloadURL": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
             "versionDescription": "DLS22 Hack ios10 Trở nên | All Devices"
@@ -901,6 +910,15 @@
             "iconURL": "https://tqm-ipa.github.io/js/img/hungryshark.png",
             "downloadURL": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
             "versionDescription": "Hungry Shark ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Archero",
+            "version": "4.3.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/archero.png",
+            "downloadURL": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
+            "versionDescription": "Archero Hack ios10 Trở nên | All Devices"
         },
 
         {
