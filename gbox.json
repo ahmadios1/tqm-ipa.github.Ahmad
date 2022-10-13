@@ -1003,8 +1003,18 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "Homescapes",
+            "appVersion": "5.7.3",
+            "appImage": "https://tqm-ipa.github.io/js/img/home.png",
+            "appPackage": "https://archive.org/download/homescapes-tqm/Homescapes-TQM.ipa",
+            "appDescription": "Candy Crush Soda ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "DLS22",
-            "appVersion": "9.13",
+            "appVersion": "9.14",
             "appImage": "https://tqm-ipa.github.io/js/img/dls22.png",
             "appPackage": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
             "appDescription": "DLS22 Hack ios10 Trở nên | All Devices"
@@ -1013,11 +1023,21 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Hungry Shark",
-            "appVersion": "4.5.0",
+            "appName": "Hungry Shark World",
+            "appVersion": "4.7.0",
             "appImage": "https://tqm-ipa.github.io/js/img/hungryshark.png",
             "appPackage": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
-            "appDescription": "Hungry Shark ios10 Trở nên | All Devices"
+            "appDescription": "Hungry Shark World ios12 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Hungry Shark Evolution ",
+            "appVersion": "9.1.8",
+            "appImage": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "appPackage": "https://archive.org/download/hungry-shark-evo-tqm/HungrySharkEvo-TQM.ipa",
+            "appDescription": "Hungry Shark Evolution ios11 Trở nên | All Devices"
         },
 
         {

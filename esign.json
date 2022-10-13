@@ -897,7 +897,7 @@
         {
             "isLanZouCloud": 0,
             "name": "DLS22",
-            "version": "9.13",
+            "version": "9.14",
             "iconURL": "https://tqm-ipa.github.io/js/img/dls22.png",
             "downloadURL": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
             "versionDescription": "DLS22 Hack ios10 Trở nên | All Devices"
@@ -905,11 +905,20 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Hungry Shark",
-            "version": "4.5.0",
+            "name": "Hungry Shark World",
+            "version": "4.7.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/hungryshark.png",
             "downloadURL": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
-            "versionDescription": "Hungry Shark ios10 Trở nên | All Devices"
+            "versionDescription": "Hungry Shark World ios12 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Hungry Shark Evolution",
+            "version": "9.1.8",
+            "iconURL": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "downloadURL": "https://archive.org/download/hungry-shark-evo-tqm/HungrySharkEvo-TQM.ipa",
+            "versionDescription": "Hungry Shark World ios11 Trở nên | All Devices"
         },
 
         {

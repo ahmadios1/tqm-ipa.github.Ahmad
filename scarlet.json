@@ -801,19 +801,27 @@
         },  {
             "category": "Games++",
             "name": "DLS22",
-            "version": "9.13",
+            "version": "9.14",
             "icon": "https://tqm-ipa.github.io/js/img/dls22.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
             "description": "DLS22 Hack ios10 Trở nên | All Devices"
         }, {
             "category": "Games++",
-            "name": "Hungry Shark",
-            "version": "4.5.0",
+            "name": "Hungry Shark World",
+            "version": "4.7.0",
             "icon": "https://tqm-ipa.github.io/js/img/hungryshark.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
-            "description": "Hungry Shark ios10 Trở nên | All Devices"
+            "description": "Hungry Shark World ios12 Trở nên | All Devices"
+        }, {
+           "category": "Games++",
+            "name": "Hungry Shark Evolution",
+            "version": "9.1.8",
+            "icon": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/hungry-shark-evo-tqm/HungrySharkEvo-TQM.ipa",
+            "description": "Hungry Shark World ios11 Trở nên | All Devices"
         }, {
             "category": "Games++",
             "name": "Archero",
