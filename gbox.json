@@ -24,7 +24,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "ESign",
-            "appVersion": "4.6.3",
+            "appVersion": "4.6.6",
             "appImage": "https://tqm-ipa.github.io/js/img/esign.png",
             "appPackage": "https://quangminh388.github.io/ipa/Esign-TQM.ipa",
             "appDescription": "Store Sign For ios10 Trở nên | All Devices"
@@ -424,7 +424,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 2",
-            "appVersion": "220901",
+            "appVersion": "221001.1",
             "appImage": "https://tqm-ipa.github.io/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
             "appDescription": "Zalo 2 For ios10 Trở nên | All Devices"
@@ -434,7 +434,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 3",
-            "appVersion": "220901",
+            "appVersion": "221001.1",
             "appImage": "https://tqm-ipa.github.io/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-3/Zalo3.ipa",
             "appDescription": "Zalo 3 For ios10 Trở nên | All Devices"
@@ -444,7 +444,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 4",
-            "appVersion": "220901",
+            "appVersion": "221001.1",
             "appImage": "https://tqm-ipa.github.io/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-4/Zalo4.ipa",
             "appDescription": "Zalo 4 For ios10 Trở nên | All Devices"
@@ -454,7 +454,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 5",
-            "appVersion": "220901",
+            "appVersion": "221001.1",
             "appImage": "https://tqm-ipa.github.io/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-5/Zalo5.ipa",
             "appDescription": "Zalo 5 For ios10 Trở nên | All Devices"
@@ -464,7 +464,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 6",
-            "appVersion": "220901",
+            "appVersion": "221001.1",
             "appImage": "https://tqm-ipa.github.io/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-6/Zalo6.ipa",
             "appDescription": "Zalo 6 For ios10 Trở nên | All Devices"
@@ -474,7 +474,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "WhatsApp 2",
-            "appVersion": "22.5.71",
+            "appVersion": "22.20.75",
             "appImage": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "appPackage": "https://quangminh388.github.io/ipa/WhatsApp-TQM.ipa",
             "appDescription": "WhatsApp 2 For ios10 Trở nên | All Devices"
@@ -484,7 +484,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "WhatsApp 3",
-            "appVersion": "22.5.71",
+            "appVersion": "22.20.75",
             "appImage": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "appPackage": "https://quangminh388.github.io/ipa/WhatsAppTQM3.ipa",
             "appDescription": "WhatsApp 3 For ios10 Trở nên | All Devices"
@@ -494,7 +494,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "WhatsApp 4",
-            "appVersion": "22.5.71",
+            "appVersion": "22.20.75",
             "appImage": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "appPackage": "https://quangminh388.github.io/ipa/WhatsAppTQM4.ipa",
             "appDescription": "WhatsApp 4 For ios10 Trở nên | All Devices"
@@ -504,7 +504,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "WhatsApp 5",
-            "appVersion": "22.5.71",
+            "appVersion": "22.20.75",
             "appImage": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "appPackage": "https://quangminh388.github.io/ipa/WhatsAppTQM5.ipa",
             "appDescription": "WhatsApp 5 For ios10 Trở nên | All Devices"
@@ -514,7 +514,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "WhatsApp 6",
-            "appVersion": "22.5.71",
+            "appVersion": "22.20.75",
             "appImage": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "appPackage": "https://quangminh388.github.io/ipa/WhatsAppTQM6.ipa",
             "appDescription": "WhatsApp 6 For ios10 Trở nên | All Devices"
@@ -794,7 +794,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Lightroom",
-            "appVersion": "7.5.1",
+            "appVersion": "8.0.0",
             "appImage": "https://tqm-ipa.github.io/js/img/lr.png",
             "appPackage": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",
             "appDescription": "Lightroom For ios10 Trở nên | All Devices"

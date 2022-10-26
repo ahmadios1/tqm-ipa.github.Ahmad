@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.tqm.hungrysharkworld</string>
 				<key>bundle-version</key>
-				<string>4.5.0</string>
+				<string>4.7.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>Hungry Shark TQM</string>
+				<string>Hungry Shark World TQM</string>
 			</dict>
 		</dict>
 	</array>

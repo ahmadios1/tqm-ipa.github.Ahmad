@@ -14,7 +14,7 @@
         }, {
             "category": "Tools Sign",
             "name": "ESign",
-            "version": "4.6.3",
+            "version": "4.6.6",
             "icon": "https://tqm-ipa.github.io/js/img/esign.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/Esign-TQM.ipa",
@@ -336,7 +336,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 2",
-            "version": "220901",
+            "version": "221001.1",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
@@ -344,7 +344,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 3",
-            "version": "220901",
+            "version": "221001.1",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-3/Zalo3.ipa",
@@ -352,7 +352,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 4",
-            "version": "220901",
+            "version": "221001.1",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-4/Zalo4.ipa",
@@ -360,7 +360,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 5",
-            "version": "220901",
+            "version": "221001.1",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-5/Zalo5.ipa",
@@ -368,7 +368,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Zalo 6",
-            "version": "220901",
+            "version": "221001.1",
             "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/zalo-6/Zalo6.ipa",
@@ -376,7 +376,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "WhatsApp 2",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/WhatsApp-TQM.ipa",
@@ -384,7 +384,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "WhatsApp 3",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/WhatsAppTQM3.ipa",
@@ -392,7 +392,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "WhatsApp 4",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/WhatsAppTQM4.ipa",
@@ -400,7 +400,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "WhatsApp 5",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/WhatsAppTQM5.ipa",
@@ -408,7 +408,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "WhatsApp 6",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/WhatsAppTQM6.ipa",
@@ -632,7 +632,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Lightroom",
-            "version": "7.5.1",
+            "version": "8.0.0",
             "icon": "https://tqm-ipa.github.io/js/img/lr.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",

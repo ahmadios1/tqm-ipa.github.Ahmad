@@ -15,7 +15,7 @@
         {
             "isLanZouCloud": 0,
             "name": "ESign",
-            "version": "4.6.3",
+            "version": "4.6.6",
             "iconURL": "https://tqm-ipa.github.io/js/img/esign.png",
             "downloadURL": "https://quangminh388.github.io/ipa/Esign-TQM.ipa",
             "versionDescription": "Store Sign For ios10 Trở nên | All Devices"
@@ -375,7 +375,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Zalo 2",
-            "version": "220901",
+            "version": "221001.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
             "downloadURL": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
             "versionDescription": "Zalo 2 For ios10 Trở nên | All Devices"
@@ -384,7 +384,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Zalo 3",
-            "version": "220901",
+            "version": "221001.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
             "downloadURL": "https://archive.org/download/zalo-3/Zalo3.ipa",
             "versionDescription": "Zalo 3 For ios10 Trở nên | All Devices"
@@ -393,7 +393,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Zalo 4",
-            "version": "220901",
+            "version": "221001.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
             "downloadURL": "https://archive.org/download/zalo-4/Zalo4.ipa",
             "versionDescription": "Zalo 4 For ios10 Trở nên | All Devices"
@@ -402,7 +402,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Zalo 5",
-            "version": "220901",
+            "version": "221001.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
             "downloadURL": "https://archive.org/download/zalo-5/Zalo5.ipa",
             "versionDescription": "Zalo 5 For ios10 Trở nên | All Devices"
@@ -411,7 +411,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Zalo 6",
-            "version": "220901",
+            "version": "221001.1",
             "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
             "downloadURL": "https://archive.org/download/zalo-6/Zalo6.ipa",
             "versionDescription": "Zalo 6 For ios10 Trở nên | All Devices"
@@ -420,7 +420,7 @@
         {
             "isLanZouCloud": 0,
             "name": "WhatsApp 2",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "downloadURL": "https://quangminh388.github.io/ipa/WhatsApp-TQM.ipa",
             "versionDescription": "WhatsApp 2 For ios10 Trở nên | All Devices"
@@ -429,7 +429,7 @@
         {
             "isLanZouCloud": 0,
             "name": "WhatsApp 3",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "downloadURL": "https://quangminh388.github.io/ipa/WhatsAppTQM3.ipa",
             "versionDescription": "WhatsApp 3 For ios10 Trở nên | All Devices"
@@ -438,7 +438,7 @@
         {
             "isLanZouCloud": 0,
             "name": "WhatsApp 4",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "downloadURL": "https://quangminh388.github.io/ipa/WhatsAppTQM4.ipa",
             "versionDescription": "WhatsApp 4 For ios10 Trở nên | All Devices"
@@ -447,7 +447,7 @@
         {
             "isLanZouCloud": 0,
             "name": "WhatsApp 5",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "downloadURL": "https://quangminh388.github.io/ipa/WhatsAppTQM5.ipa",
             "versionDescription": "WhatsApp 5 For ios10 Trở nên | All Devices"
@@ -456,7 +456,7 @@
         {
             "isLanZouCloud": 0,
             "name": "WhatsApp 6",
-            "version": "22.5.71",
+            "version": "22.20.75",
             "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
             "downloadURL": "https://quangminh388.github.io/ipa/WhatsAppTQM6.ipa",
             "versionDescription": "WhatsApp 6 For ios10 Trở nên | All Devices"
@@ -708,7 +708,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Lightroom",
-            "version": "7.5.1",
+            "version": "8.0.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/lr.png",
             "downloadURL": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",
             "versionDescription": "Lightroom For ios10 Trở nên | All Devices"
