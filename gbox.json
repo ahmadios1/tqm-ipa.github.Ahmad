@@ -893,6 +893,16 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "GTA San",
+            "appVersion": "2.02.07",
+            "appImage": "https://tqm-ipa.github.io/js/img/gtasan.png",
+            "appPackage": "https://archive.org/download/gtasa-tqm/GTASA-TQM.ipa",
+            "appDescription": "GTA San For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Getting Over it",
             "appVersion": "1.05",
             "appImage": "https://tqm-ipa.github.io/js/img/gettingoverit.png",
@@ -1007,7 +1017,7 @@
             "appVersion": "5.7.3",
             "appImage": "https://tqm-ipa.github.io/js/img/home.png",
             "appPackage": "https://archive.org/download/homescapes-tqm/Homescapes-TQM.ipa",
-            "appDescription": "Candy Crush Soda ios10 Trở nên | All Devices"
+            "appDescription": "Homescapes ios10 Trở nên | All Devices"
         },
 
         {
@@ -1044,7 +1054,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Archero",
-            "appVersion": "4.3.2",
+            "appVersion": "4.3.4",
             "appImage": "https://tqm-ipa.github.io/js/img/archero.png",
             "appPackage": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
             "appDescription": "Archero Hack ios10 Trở nên | All Devices"

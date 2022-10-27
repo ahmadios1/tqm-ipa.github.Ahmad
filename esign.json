@@ -797,6 +797,15 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "GTA San",
+            "version": "2.02.07",
+            "iconURL": "https://tqm-ipa.github.io/js/img/gtasan.png",
+            "downloadURL": "https://archive.org/download/gtasa-tqm/GTASA-TQM.ipa",
+            "versionDescription": "GTA San For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "Getting Over it",
             "version": "1.05",
             "iconURL": "https://tqm-ipa.github.io/js/img/gettingoverit.png",
@@ -896,6 +905,15 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "Homescapes",
+            "version": "5.7.3",
+            "iconURL": "https://tqm-ipa.github.io/js/img/home.png",
+            "downloadURL": "https://archive.org/download/homescapes-tqm/Homescapes-TQM.ipa",
+            "versionDescription": "Homescapes ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "DLS22",
             "version": "9.14",
             "iconURL": "https://tqm-ipa.github.io/js/img/dls22.png",
@@ -924,7 +942,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Archero",
-            "version": "4.3.2",
+            "version": "4.3.4",
             "iconURL": "https://tqm-ipa.github.io/js/img/archero.png",
             "downloadURL": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
             "versionDescription": "Archero Hack ios10 Trở nên | All Devices"

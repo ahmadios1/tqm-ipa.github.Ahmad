@@ -296,8 +296,18 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/plist/gtasan.plist</loc>
+   <lastmod>2022-10-27</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/plist/un801.plist</loc>
    <lastmod>2022-09-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/plist/home.plist</loc>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -352,7 +362,7 @@
   </url>
   <url>
    <loc>https://tqm-mos.github.io/plist/archero.plist</loc>
-   <lastmod>2022-10-26</lastmod>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -708,6 +718,11 @@
   <url>
    <loc>https://tqm-mos.github.io/js/img/th0r.png</loc>
    <lastmod>2022-09-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/js/img/gtasan.png</loc>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1112,7 +1127,7 @@
   </url>
   <url>
    <loc>https://tqm-mos.github.io/gbox.json</loc>
-   <lastmod>2022-10-26</lastmod>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -7402,7 +7417,7 @@
   </url>
   <url>
    <loc>https://tqm-mos.github.io/scarlet.json</loc>
-   <lastmod>2022-10-26</lastmod>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -7563,6 +7578,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/92/2a089f2a4241c97718444c03ac3df601aa4046</loc>
    <lastmod>2022-10-05</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/92/85aef6a24f40654f03def58113511915155b7c</loc>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -9011,6 +9031,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/d9/966d94f5830c4fa2b76ffb3dac98ed1b1704b9</loc>
+   <lastmod>2022-10-27</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/d9/6fcfbdf9f4039f54540d94099df912adc19fa2</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -9673,6 +9698,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/ab/cc923582f0d8c808ee07fb3fb644b17e9f6698</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/e5/d5e92e6479d6c636ab57b107a93658a4605432</loc>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -13206,6 +13236,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/ba/b62a8d7c0e944cec5eb3f979c38d28514b9b99</loc>
+   <lastmod>2022-10-27</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/ba/c5865d5e5c0e1e8010dee5418c2bb38eed6095</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -13223,6 +13258,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/ba/6e86e15fef9262a7bc239c1555cf95e65c0e88</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/a0/f2144746ab9595db731552f1fff2af6f9879e3</loc>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -14791,6 +14831,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/2c/ad9a031eb698b77de2f4ecb72770dd50f687fd</loc>
+   <lastmod>2022-10-27</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/79/49aea0088a8207cd1a9b30ccaddef945a1efb2</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16127,7 +16172,7 @@
   </url>
   <url>
    <loc>https://tqm-mos.github.io/esign.json</loc>
-   <lastmod>2022-10-26</lastmod>
+   <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
   </url>
  </urlset>
