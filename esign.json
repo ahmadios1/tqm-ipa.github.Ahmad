@@ -41,6 +41,15 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "ZSign",
+            "version": "7.2.7",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zsign.png",
+            "downloadURL": "https://quangminh388.github.io/ipa/Zsign-TQM.ipa",
+            "versionDescription": "Store Sign For ios12 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "AppCake",
             "version": "7.2.2",
             "iconURL": "https://tqm-ipa.github.io/js/img/appcake.png",
