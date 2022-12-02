@@ -3721,6 +3721,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/DEB/com.ongcenh.messengernoads_3.12.0_iphoneos-arm.deb</loc>
+   <lastmod>2022-11-22</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/DEB/com.ongcenh.videohud_2.4_iphoneos-arm.deb</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -7412,12 +7417,12 @@
   </url>
   <url>
    <loc>https://tqm-mos.github.io/sitemap.xml</loc>
-   <lastmod>2022-11-20</lastmod>
+   <lastmod>2022-12-02</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-mos.github.io/Packages.bz2</loc>
-   <lastmod>2022-11-20</lastmod>
+   <lastmod>2022-12-02</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -7803,6 +7808,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/50/c234e0581eafd4e81127b5eeaa70cd9b33b38e</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/50/49728c1e03029dc6e07de476b23488c97560de</loc>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -9281,6 +9291,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/be/bda0e8c2a53bae428efa55cfcbe1fb297ef8c5</loc>
+   <lastmod>2022-11-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/be/b41c819068525e9c707c5d67a9087b3883efcc</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -9353,6 +9368,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/df/c61e616668448eedf666ef892086a495c683c4</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/df/e438bc05273f50d8e44caa5a5d44a6c5d73ee7</loc>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -10446,6 +10466,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/fe/b0573476800760560690673ce7cd218519801c</loc>
+   <lastmod>2022-11-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/fe/7a29500f3bb8a33f87b2e9b6b2acac1dccdabd</loc>
    <lastmod>2022-10-05</lastmod>
    <changefreq>weekly</changefreq>
@@ -10638,6 +10663,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/c6/566f141f1a61842ef68942896b2408286299fe</loc>
    <lastmod>2022-10-05</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/c6/73dad82270454aa6c10f10fe7ac33fcd2c6eb7</loc>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -11201,6 +11231,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/45/1b1aff873077503c1675d330fd03e425961a10</loc>
+   <lastmod>2022-11-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/45/3f307aad721ace48a2edd468ed2a109ee3ad82</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -11741,6 +11776,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/4c/8f66baf2c6314cece9f3b32204b08d24ce7fa9</loc>
+   <lastmod>2022-11-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/4c/96a2b276b171ce8a008fa3dee6dc491b79671e</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -11886,6 +11926,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/75/8fc659613a23f2386520efd72d8d80d6ffa210</loc>
+   <lastmod>2022-11-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/75/c78b6593bb428b988fea2219934e5d7d342a1f</loc>
    <lastmod>2022-10-05</lastmod>
    <changefreq>weekly</changefreq>
@@ -11923,6 +11968,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/81/9c6404bf1e6e7d51715f1d1c7688c6f989b6b9</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/81/97671d719985a88927206a08da9826c18ac92f</loc>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -14661,6 +14711,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/f7/59cf7c2c59aad85bb5a3c912f82657022481d2</loc>
+   <lastmod>2022-11-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/f7/da3b0fc8f4049323afee74315720a22032b8cc</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16046,6 +16101,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.github.io/.git/objects/49/341a70ae99564d6f9b440f8b55d00363cba6ed</loc>
+   <lastmod>2022-11-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.github.io/.git/objects/40/0cb474e2c0339a5b558043cb625a28617408fe</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16223,6 +16283,11 @@
   <url>
    <loc>https://tqm-mos.github.io/.git/objects/8b/d307537be699af731d1c7f3c57f67d550f5edb</loc>
    <lastmod>2022-10-05</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.github.io/.git/objects/8b/bb9a67e2be18d01c8542b073ce0fd054a9c74c</loc>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16497,17 +16562,17 @@
   </url>
   <url>
    <loc>https://tqm-mos.github.io/.git/logs/HEAD</loc>
-   <lastmod>2022-11-10</lastmod>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-mos.github.io/.git/logs/refs/heads/master</loc>
-   <lastmod>2022-11-10</lastmod>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-mos.github.io/.git/logs/refs/remotes/origin/master</loc>
-   <lastmod>2022-11-10</lastmod>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16572,22 +16637,22 @@
   </url>
   <url>
    <loc>https://tqm-mos.github.io/.git/COMMIT_EDITMSG</loc>
-   <lastmod>2022-11-10</lastmod>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-mos.github.io/.git/refs/heads/master</loc>
-   <lastmod>2022-11-10</lastmod>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-mos.github.io/.git/refs/remotes/origin/master</loc>
-   <lastmod>2022-11-10</lastmod>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-mos.github.io/.git/index</loc>
-   <lastmod>2022-11-10</lastmod>
+   <lastmod>2022-11-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
