@@ -15,7 +15,7 @@
         {
             "isLanZouCloud": 0,
             "name": "ESign",
-            "version": "4.6.7",
+            "version": "4.7.3",
             "iconURL": "https://tqm-ipa.github.io/js/img/esign.png",
             "downloadURL": "https://quangminh388.github.io/ipa/Esign-TQM.ipa",
             "versionDescription": "Store Sign For ios10 Trở nên | All Devices"
@@ -339,7 +339,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Messenger 2",
-            "version": "386.0",
+            "version": "311.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/mes.png",
             "downloadURL": "https://quangminh388.github.io/ipa/Messenger2-TQM.ipa",
             "versionDescription": "Messenger 2 For ios10 Trở nên | All Devices"
@@ -600,7 +600,7 @@
         {
             "isLanZouCloud": 0,
             "name": "DLTube TQM",
-            "version": "17.41.2",
+            "version": "17.32.2",
             "iconURL": "https://tqm-ipa.github.io/js/img/yt.png",
             "downloadURL": "https://archive.org/download/dltube-tqm/DLTubeTQM.ipa",
             "versionDescription": "Youtube No ads For ios10 Trở nên | All Devices"

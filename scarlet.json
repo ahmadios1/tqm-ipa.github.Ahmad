@@ -14,7 +14,7 @@
         }, {
             "category": "Tools Sign",
             "name": "ESign",
-            "version": "4.6.7",
+            "version": "4.7.3",
             "icon": "https://tqm-ipa.github.io/js/img/esign.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/Esign-TQM.ipa",
@@ -296,7 +296,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "Messenger 2",
-            "version": "386.0",
+            "version": "311.0",
             "icon": "https://tqm-ipa.github.io/js/img/mes.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://quangminh388.github.io/ipa/Messenger2-TQM.ipa",
@@ -536,7 +536,7 @@
         }, {
             "category": "Tweaks Apps++",
             "name": "DLTube TQM",
-            "version": "17.41.2",
+            "version": "17.32.2",
             "icon": "https://tqm-ipa.github.io/js/img/yt.png",
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/dltube-tqm/DLTubeTQM.ipa",
