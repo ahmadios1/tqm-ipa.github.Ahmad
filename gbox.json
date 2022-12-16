@@ -1099,5 +1099,15 @@
             "appPackage": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
             "appDescription": "Call of Duty ios10 Trở nên | All Devices"
         },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Lẩu 5 sao",
+            "appVersion": "1.4.5",
+            "appImage": "https://tqm-ipa.github.io/js/img/lau.png",
+            "appPackage": "https://archive.org/download/myhots-tqm/MyhotsTQM.ipa",
+            "appDescription": "Lẩu 5 sao ios10 Trở nên | All Devices"
+        }
     ]
 }

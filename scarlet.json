@@ -878,5 +878,13 @@
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
             "description": "Call of Duty ios10 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
+            "name": "Lẩu 5 sao",
+            "version": "1.4.5",
+            "icon": "https://tqm-ipa.github.io/js/img/lau.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/myhots-tqm/MyhotsTQM.ipa",
+            "description": "Lẩu 5 sao ios10 Trở nên | All Devices"
         }]
 }
