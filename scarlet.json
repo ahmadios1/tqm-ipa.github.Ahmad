@@ -870,5 +870,13 @@
             "banner": "https://tqm-ipa.github.io/js/img/banner.png",
             "down": "https://archive.org/download/the-spike-tqm/TheSpike-TQM.ipa",
             "description": "The Spike ios10 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
+            "name": "Call of Duty",
+            "version": "1.8.36",
+            "icon": "https://tqm-ipa.github.io/js/img/duty.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
+            "description": "Call of Duty ios10 Trở nên | All Devices"
         }]
 }

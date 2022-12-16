@@ -1089,5 +1089,15 @@
             "appPackage": "https://archive.org/download/the-spike-tqm/TheSpike-TQM.ipa",
             "appDescription": "The Spike ios10 Trở nên | All Devices"
         },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Call of Duty",
+            "appVersion": "1.8.36",
+            "appImage": "https://tqm-ipa.github.io/js/img/duty.png",
+            "appPackage": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
+            "appDescription": "Call of Duty ios10 Trở nên | All Devices"
+        },
     ]
 }

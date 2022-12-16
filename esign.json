@@ -973,6 +973,15 @@
             "iconURL": "https://tqm-ipa.github.io/js/img/thespike.png",
             "downloadURL": "https://archive.org/download/the-spike-tqm/TheSpike-TQM.ipa",
             "versionDescription": "The Spike ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Call of Duty",
+            "version": "1.8.36",
+            "iconURL": "https://tqm-ipa.github.io/js/img/duty.png",
+            "downloadURL": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
+            "versionDescription": "Call of Duty ios10 Trở nên | All Devices"
         }
     ]
 }
